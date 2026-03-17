@@ -12,6 +12,7 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=py,html,css,c,cpp,js,git,mysql,aws,docker,kubernetes,terraform,ansible&theme=light" />
   </p>
+</div>
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Arrow.png" alt="Heart" width="50" height="50" />
 </div>
