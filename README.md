@@ -14,9 +14,6 @@
   </p>
 </div>
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Arrow.png" alt="Heart" width="50" height="50" />
-</div>
-
 ## ABOUT ME
 
 * 🔭 I’m currently working as a **Data Analysis Intern** at **Upflairs.com Pvt. Ltd.** Jaipur, Rajasthan.
