@@ -19,11 +19,12 @@
 ## ABOUT ME
 
 * 🔭 I’m currently working as a **Data Analysis Intern** at **Upflairs.com Pvt. Ltd.** Jaipur, Rajasthan.
-* ⚡ Dealing with **Large Language Models**, utilizing **Generative AI** tools & techniques to develop cutting-edge applications.
 * 😎 Handling structured and non-structured data, and querying data from **MySQL** and **MongoDB**.
 * ✨ Worked on **AWS Cloud** and utilized services like **EC2, S3, RDS, IAM, and CodePipeline**.
 * 🎙 Developed a **Multilingual Audiobook App** that handles PPTX/DOCX/TXT using RAM-efficient chunking.
-* 💻 Check my Projects and other Repos **https://github.com/Amankumar81**.
+* * 💻 **Explore my Projects:*** 🎙 **Multilingual Audiobook App** | [Live Demo](https://audio-book-3q5b.onrender.com)
+  [![Live Demo](https://img.shields.io/badge/Demo-Live%20Now-brightgreen?style=for-the-badge&logo=vercel)](https://audio-book-3q5b.onrender.com)
+  * Developed an **In-Memory Chunking Engine** using the `io` module for 100% RAM efficiency.
 
 ## LANGUAGES AND TOOLS
 
