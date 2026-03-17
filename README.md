@@ -23,7 +23,7 @@
 * 😎 Handling structured and non-structured data, and querying data from **MySQL** and **MongoDB**.
 * ✨ Worked on **AWS Cloud** and utilized services like **EC2, S3, RDS, IAM, and CodePipeline**.
 * 🎙 Developed a **Multilingual Audiobook App** that handles PPTX/DOCX/TXT using RAM-efficient chunking.
-* 💻 Check my Projects and other Repos **[HERE](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)**.
+* 💻 Check my Projects and other Repos **https://github.com/Amankumar81**.
 
 ## LANGUAGES AND TOOLS
 
