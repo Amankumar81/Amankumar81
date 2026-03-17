@@ -7,7 +7,7 @@
   
   <h1>Hi 👋, I'm Aman Kumar</h1>
 
-  <h3 align="center">🚩 A Full-Stack Developer, DevOps Enthusiast & Data Analyst From India 🚩</h3>
+  <h3 align="center">🚩 A Full-Stack Developer, DevOps & Data Analyst From India 🚩</h3>
   
   <p align="center">
     <img src="https://skillicons.dev/icons?i=py,html,css,c,cpp,js,git,mysql,aws,docker,kubernetes,terraform,ansible&theme=light" />
