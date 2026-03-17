@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey! Nice to see you ✨✨</h1>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Amankumar81&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
   <br />
   <br />
@@ -20,11 +20,11 @@
 
 * 🔭 I’m currently working as a **Data Analysis Intern** at **Upflairs.com Pvt. Ltd.** Jaipur, Rajasthan.
 * 😎 Handling structured and non-structured data, and querying data from **MySQL** and **MongoDB**.
-* ✨ Worked on **AWS Cloud** and utilized services like **EC2, S3, RDS, IAM, and CodePipeline**.
-* 🎙 Developed a **Multilingual Audiobook App** that handles PPTX/DOCX/TXT using RAM-efficient chunking.
-* * 💻 **Explore my Projects:*** 🎙 **Multilingual Audiobook App** | [Live Demo](https://audio-book-3q5b.onrender.com)
+* ✨ Worked on **AWS Cloud** utilizing services like **EC2, S3, RDS, IAM, and CodePipeline**.
+* 🎙 **Multilingual Audiobook App** | [Live Demo](https://audio-book-3q5b.onrender.com)
   [![Live Demo](https://img.shields.io/badge/Demo-Live%20Now-brightgreen?style=for-the-badge&logo=vercel)](https://audio-book-3q5b.onrender.com)
-  * Developed an **In-Memory Chunking Engine** using the `io` module for 100% RAM efficiency.
+  * Engineered an **In-Memory Chunking Engine** using the `io` module for 100% RAM efficiency and unlimited word processing.
+* 💻 Explore my other projects [HERE](https://github.com/Amankumar81?tab=repositories).
 
 ## LANGUAGES AND TOOLS
 
@@ -54,11 +54,11 @@
 ## GITHUB STATS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Amankumar81&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumar81&theme=tokyonight" alt="GitHub Streak" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankumar81&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## CONNECT WITH ME:
