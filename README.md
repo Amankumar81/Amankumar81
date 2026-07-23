@@ -10,8 +10,7 @@
   <h3 align="center">🚩 A Full-Stack Developer, DevOps & Data Analyst From India 🚩</h3>
   
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,html,css,c,cpp,js,git,mysql,aws,docker,kubernetes,terraform,ansible&theme=light" />
-  </p>
+<img src="https://skillicons.dev/icons?i=py,html,css,js,nodejs,express,mongodb,c,cpp,git,mysql,aws,docker,kubernetes,terraform,ansible&theme=light" />  </p>
 </div>
 
 ## ABOUT ME
